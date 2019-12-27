@@ -7,19 +7,19 @@ This game have to be open using unity to be able to play it.
 ## Screenshot Example:
 
 ## View in Unity
-![alt text](https://github.com/ricardocolin/Laser-Beam-Game/blob/master/img/Start.png)
+![alt text](https://github.com/ricardocolin/3D-Cube-Game-Unity/blob/master/img/Unity-View.png)
 
 ## Game play 1
-![alt text](https://github.com/ricardocolin/Laser-Beam-Game/blob/master/img/gameOver.png)
+![alt text](https://github.com/ricardocolin/3D-Cube-Game-Unity/blob/master/img/Gameplay1.png)
 
 ## Game play 2
-![alt text](https://github.com/ricardocolin/Laser-Beam-Game/blob/master/img/gamePlay.png)
+![alt text](https://github.com/ricardocolin/3D-Cube-Game-Unity/blob/master/img/Gameplay2.png)
 
 ## Game play 3
-![alt text](https://github.com/ricardocolin/Laser-Beam-Game/blob/master/img/shopStore.png)
+![alt text](https://github.com/ricardocolin/3D-Cube-Game-Unity/blob/master/img/Gameplay3.png)
 
 ## Level Completed
-![alt text](https://github.com/ricardocolin/Laser-Beam-Game/blob/master/img/shopStore.png)
+![alt text](https://github.com/ricardocolin/3D-Cube-Game-Unity/blob/master/img/Complete.png)
 
 ## Credits
-![alt text](https://github.com/ricardocolin/Laser-Beam-Game/blob/master/img/shopStore.png)
+![alt text](https://github.com/ricardocolin/3D-Cube-Game-Unity/blob/master/img/Credits.png)
